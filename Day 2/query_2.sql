@@ -1,0 +1,1 @@
+SELECT EID,Name,address,position,DATE_FORMAT(dob,'%d/%m/%Y'), DATE_FORMAT(joining,'%d/%m/%Y'),salary FROM `employee`

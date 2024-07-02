@@ -1,0 +1,1 @@
+SELECT EID,Name,position FROM `employee` WHERE address = "Rajshahi"

@@ -1,0 +1,1 @@
+SELECT EID,Name FROM `employee` WHERE joining = "2023-11-12" and salary = 45000

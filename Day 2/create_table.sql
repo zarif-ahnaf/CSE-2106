@@ -1,0 +1,1 @@
+create table Employee(EID int,Name varchar(250),address varchar(250),position varchar(250),dob DATE,joining DATE,salary int);
