@@ -1,1 +1,1 @@
-SELECT * FROM `employee` WHERE joining = '2023-11-12'
+SELECT EID FROM `employee` WHERE joining = '2023-11-12'
