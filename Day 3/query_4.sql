@@ -1,0 +1,1 @@
+SELECT SID FROM Merit_Student WHERE Name LIKE 'a%';

@@ -1,0 +1,3 @@
+ALTER TABLE Merit_Student 
+DROP PRIMARY KEY;
+ADD PRIMARY KEY (Name);

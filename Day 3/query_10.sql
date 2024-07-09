@@ -1,0 +1,1 @@
+DELETE FROM Merit_Student WHERE CGPA < 3.7;
