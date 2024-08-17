@@ -1,0 +1,1 @@
+UPDATE Product_Details SET Product_Name = "KC Chips" WHERE PID=2;

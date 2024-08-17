@@ -1,0 +1,1 @@
+ALTER TABLE Sales_Details MODIFY Unit_Price INT;

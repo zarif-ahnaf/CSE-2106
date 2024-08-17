@@ -1,0 +1,1 @@
+UPDATE Sales_Details SET Sales_Area="Gazipur" WHERE Sales_Area="Dhaka"

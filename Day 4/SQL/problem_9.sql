@@ -1,0 +1,1 @@
+SELECT Product_Name FROM Product_Details WHERE Manufacture_Date < "2023-09-11";

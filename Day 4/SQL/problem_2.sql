@@ -1,0 +1,1 @@
+ALTER TABLE Product_Details ADD FOREIGN KEY(Sales_ID) REFERENCES Sales_Details(SID);
