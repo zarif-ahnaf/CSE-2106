@@ -1,0 +1,3 @@
+SELECT Name FROM Member WHERE ID IN (1, 2)
+UNION
+SELECT Author FROM Book WHERE ID IN (4, 5);

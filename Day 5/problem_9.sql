@@ -1,0 +1,1 @@
+SELECT * FROM Book WHERE Category in ("Fiction")
