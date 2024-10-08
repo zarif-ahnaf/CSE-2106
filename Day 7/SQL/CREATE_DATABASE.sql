@@ -1,0 +1,1 @@
+CREATE DATABASE Result_Management_System;
