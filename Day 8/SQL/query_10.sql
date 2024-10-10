@@ -1,0 +1,1 @@
+SELECT TrainName, AVG(Payment.amount) FROM Train NATURAL JOIN Reservation JOIN Payment on Reservation.PassengerID = Payment.PassengerID GROUP BY TrainName Having Avg(Payment.amount) > 500;

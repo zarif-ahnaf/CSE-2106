@@ -1,0 +1,1 @@
+SELECT  Passenger.FirstName, Passenger.LastName,Reservation.Status FROM Reservation LEFT JOIN Passenger on Reservation.PassengerID = Passenger.PassengerID;

@@ -1,0 +1,1 @@
+SELECT DISTINCT Destination from Train;

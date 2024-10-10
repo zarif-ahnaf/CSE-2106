@@ -1,0 +1,1 @@
+SELECT Reservation.ReservationID, Reservation.SeatNumber, Payment.Amount, Payment.PaymentDate, Payment.PaymentStatus FROM Reservation NATURAL JOIN Payment;

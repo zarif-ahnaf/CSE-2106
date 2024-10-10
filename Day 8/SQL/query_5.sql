@@ -1,0 +1,1 @@
+UPDATE reservation set reservation.Status = "Cancelled" where reservation.ReservationID = 1001;

@@ -1,0 +1,1 @@
+SELECT AVG(amount ) from Payment;

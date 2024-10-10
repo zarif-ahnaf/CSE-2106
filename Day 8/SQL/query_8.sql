@@ -1,0 +1,1 @@
+SELECT TrainID,COUNT(SeatNumber) From Reservation GROUP BY TrainID Having COUNT(SeatNumber) > 100;

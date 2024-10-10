@@ -1,0 +1,1 @@
+SELECT age,COUNT(*) FROM Passenger GROUP BY passenger.age;
