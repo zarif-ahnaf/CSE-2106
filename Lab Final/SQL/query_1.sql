@@ -1,0 +1,1 @@
+SELECT * FROM Flights Natural join Aircraft where Aircraft.model not in ("Boeing 737",'Airbus A320')
