@@ -1,3 +1,5 @@
+<!-- delete.php  -->
+
 <?php 
     include "db.php";
  
