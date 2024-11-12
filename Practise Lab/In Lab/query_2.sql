@@ -1,0 +1,1 @@
+SELECT * FROM Customer where Customer.address LIKE "Dhaka"

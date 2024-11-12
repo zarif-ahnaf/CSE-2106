@@ -1,0 +1,1 @@
+SELECT Train.train_name from train where train_id = (Select tickets.train_id from tickets group by train_id order by SUM(price) desc limit 1)

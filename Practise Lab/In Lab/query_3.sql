@@ -1,0 +1,1 @@
+SELECT train.train_name,tickets.price from train natural join tickets where tickets.price > 500 order by -tickets.price;

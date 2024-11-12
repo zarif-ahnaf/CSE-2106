@@ -1,0 +1,1 @@
+SELECT DISTINCT departure_station from train;

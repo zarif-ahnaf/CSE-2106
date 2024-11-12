@@ -1,0 +1,1 @@
+SELECT train.train_name,AVG(tickets.price),count(tickets.ticket_id) as t from train natural join tickets group by train.train_name having t > 5;

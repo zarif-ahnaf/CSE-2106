@@ -1,0 +1,1 @@
+SELECT Tickets.ticket_id from tickets natural join customer where customer.address='Dhaka';
