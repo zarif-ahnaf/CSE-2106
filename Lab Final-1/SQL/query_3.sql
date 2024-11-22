@@ -1,0 +1,1 @@
+Select Passengers.FirstName, Passengers.LastName from Passengers Natural JOIN bookings natural join flights natural join Aircraft where Aircraft.Status = "Active"; 

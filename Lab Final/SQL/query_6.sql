@@ -1,1 +1,0 @@
-SELECT Passengers.PassengerID,passengers.FirstName,passengers.LastName,passengers.Email from passengers natural join Flights natural join Bookings where Flights.ArrivalCity = "Los Angeles";

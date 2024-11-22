@@ -1,1 +1,0 @@
-create database Aviation_Industry_Database_System;
